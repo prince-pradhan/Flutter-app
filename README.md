@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+<<<<<<< HEAD code in lib
+
 # currency_conveter
 
 A new Flutter project.
